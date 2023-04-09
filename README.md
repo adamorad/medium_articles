@@ -1,7 +1,7 @@
 # Medium Articles By Me
 
 
-First Header  | Second Header
+Article Name  | Link
 ------------- | -------------
 Why __name__ == “__main__” ?  | [Link](https://medium.com/@adam.morad_il/why-name-main-a2b3047e49b6)
 Python Ternary Operator | [Link](https://medium.com/@adam.morad_il/python-ternary-operator-8d6b6f9d98c0)
